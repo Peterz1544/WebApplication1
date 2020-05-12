@@ -1,0 +1,148 @@
+﻿*{
+    padding: 0px;
+    margin: 1px;
+}
+
+#caja blockquote a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-family: PT sans, sans-serif;
+    margin: 0px;
+    background-color: #000000;
+}
+
+#titulo {
+    text-align: left;
+    text-indent: 1px;
+    color: white;
+}
+
+#informacion {
+    float: left;
+    background-color: #9a9a9a;
+    border-radius: 12px;
+    margin-top: 9px;
+    padding: 9px;
+}
+
+#cabecera {
+    font-size: 20px;
+    background-color: #343434;
+    border-radius: 40px 40px 0px 0px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#barra {
+    padding: 0px;
+    padding-bottom: 7px;
+    overflow: hidden;
+    background-color: #5B5B5B;
+    border-radius: 0px 0px 99px 99px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+li {
+    list-style-type: none;
+    float: left;
+}
+
+    li a {
+        color: white;
+        padding: 16px;
+        text-decoration: none;
+    }
+
+        li a:hover {
+            background-color: #111;
+        }
+
+#seccion {
+    float: left;
+    margin: -2px;
+    width: 70%;
+}
+
+article {
+    background: #666666;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 9px;
+}
+
+#seccion img {
+    border-radius: 12px;
+    width: 100%;
+    height: auto;
+    margin: 0px;
+}
+
+.contenerdor {
+    position: relative;
+}
+
+.titulo {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    background-color: #343434;
+    border-radius: 12px;
+    color: white;
+}
+
+#columna {
+    width: 28%;
+    float: left;
+    background-color: #9a9a9a;
+    border-radius: 12px;
+    margin-top: 9px;
+    padding: 9px;
+}
+
+#pie {
+    color: white;
+    clear: both;
+    padding: 5px;
+    border-top: 2px;
+    text-align: left;
+    background-color: #343434;
+    margin: 0px;
+    border-radius: 12px 12px 12px 12px;
+}
+
+#columna figure img {
+    border-radius: 12px;
+    width: 100%;
+    height: auto;
+    margin-top: -3px;
+    margin-left: 0px;
+}
+
+.contenerdor2 {
+    position: relative;
+}
+
+.titulo2 {
+    position: absolute;
+    top: 10px;
+    left: 7px;
+    background-color: #343434;
+    border-radius: 12px;
+    color: white;
+}
+
+img {
+    border-radius: 17px;
+}
+
+#caja {
+    background-color: #DEDEDE;
+    border-radius: 12px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
